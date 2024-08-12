@@ -5,6 +5,8 @@ function handleClick(){
 }
     getStartedButton.addEventListener('click', handleClick);
 
+    
+
     let welcomeMessage = document.getElementById('welcomeMessage');
     let hours = new Date().getHours();
     function checkTime(){ 
