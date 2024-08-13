@@ -3,7 +3,7 @@
 body {
     margin: 0;
     font-family: "Doppio-One", sans-serif;
-    background-color: #000000;
+    background-color: #bccdff;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -62,4 +62,5 @@ main {
     height: 100vh;
     text-align: center;
     gap: 150px; 
+    color:white
     }
